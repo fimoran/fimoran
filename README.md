@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fimoran
-- 👀 I’m interested in Mobile
-- 🌱 I’m currently learning Android, Kotlin and Mobile
+- 👀 I’m interested in Mobile and web
+- 🌱 I’m currently learning Python, Html, css and in a near future Kotlin. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me moran.felipe@outlook.com
 
 <!---
 fimoran/fimoran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
